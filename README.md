@@ -28,7 +28,7 @@
 
 <h1>
   Источники
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UybHY5eXhjb3UwaGM5bmw2MWY4ODd0Z3ZoY2c1eHVpazZsenFzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="30px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmQxMnR5cnNqaGN3bGR4andrZWlsdGQ4cTU3cjA4Z2NxNjR0eDNhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CGdcqv9IQ257q3TOUk/giphy.webp" width="30px"/>
 </h1
   
 - Документация GitHub: https://docs.github.com/ru/get-started
