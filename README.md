@@ -12,5 +12,6 @@
   В наших репозиториях, вы можете найти информацию по различным предметам таким как "Интернет технологии", "Алгоритмизация и программирование" и др. Мы надеемся, что данный ресурс поможет вам в освоении предметов и вдохновит вас на дальнейшее изучение. Удачи!
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y0MGkybWx6cmJ1eHFqdGtrZnhoZnhwazczMnQ5cXhzdDhxaXp5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
-<iframe src="" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<div id="" >
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Y0MGkybWx6cmJ1eHFqdGtrZnhoZnhwazczMnQ5cXhzdDhxaXp5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
+</div>
