@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TeachKait20/Private/blob/main/logo%20git%20kait20%20mini%20PNG.png?raw=true" width="350"/>
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="350"/>
 </div>
 
 <h1>
@@ -19,12 +19,13 @@
 </p>
 
 <table>
-  <caption><b>Что за Readme.md?</b></caption>
+  <caption><h3>Что за Readme.md?</h3></caption>
   <tr>
-    <td style="vertical-align: middle;">Файл README.md в репозитории является основным документом, который предоставляет <br>
-      обзор проекта. В нашем случае в нём будет храниться описание темы репозитория, соответствующая его названию. <br>
-      Обязательно ознакомьтесь с ними, чтобы избежать ошибок и непонимания в своей программе.<br>В самих же файлах с кодом <br>
-      будут написаны примеры программ с комментариями или задания.</td>
+    <td style="vertical-align: middle;">Файл README.md является основным документом, который предоставляет обзор проекта.<br>
+      В нашем случае в нём будет храниться описание темы репозитория, соответствующая<br>
+      его названию. Обязательно ознакомьтесь с ними, чтобы избежать ошибок<br> 
+      и непонимания в своей программе. В самих же файлах с кодом будут написаны примеры программ с комментариями или задания.
+    </td>
     <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVyZGR0ZTVqNDlwbjhyeDJ1djN3eGhkZ2R2N2ZrY3gzMG5xb2QzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.webp" width="330"></td>
   </tr>
 </table>
