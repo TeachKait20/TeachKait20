@@ -30,6 +30,8 @@
   </tr>
 </table>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=4000&color=1AB30B&random=false&width=435&lines=study+%3D+True;%23+Good+luck!" alt="Typing SVG" /></a>
+
 <h1>
   Правила Git
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3UybHY5eXhjb3UwaGM5bmw2MWY4ODd0Z3ZoY2c1eHVpazZsenFzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="30px"/>
