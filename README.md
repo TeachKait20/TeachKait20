@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=4000&color=1AB30B&random=false&width=435&lines=study+%3D+True;%23+Good+luck!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&duration=6000&pause=4000&color=1AB30B&random=false&width=435&lines=study+%3D+True;%23+Good+luck!" alt="Typing SVG" /></a>
 
 <h1>
   Правила Git
