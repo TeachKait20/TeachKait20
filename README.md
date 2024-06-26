@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/TeachKait20/NoneCode/blob/main/banner%20git%20kait20.png?raw=true"/>
+  <img src="https://github.com/TeachKait20/NoneCode/blob/main/banner%202%20git%20kait20.png?raw=true"/>
 </div>
 
 <h1>
